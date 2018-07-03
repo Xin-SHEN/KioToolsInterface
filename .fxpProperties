@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" parentProject="e7789f60-d291-4f81-b533-bff9b20e18f2" projectUUID="1f1fe8b7-a7d9-417d-a534-72dd88e006e0" pureCatalystProject="false" sdkVersion="4.6.0" uuid="03ca3d9a-b56f-49fa-9dfc-280873127216" version="15">
+  <projects/>
+  <src>
+    <linked isMain="false" location="D:/Working Documents/Libraries/as3crypto/Crypto" path="/linked-src/Crypto" position="0" uuid="03ca3d9a-b56f-49fa-9dfc-280873127216"/>
+  </src>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="03ca3d9a-b56f-49fa-9dfc-280873127216"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>
